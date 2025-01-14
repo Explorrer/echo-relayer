@@ -17,7 +17,7 @@ Run this command to download explorer relayer.
 
       git clone https://github.com/Explorrer/echo-relayer.git
 
-      cd relayer
+      cd echo-relayer
 
       cargo build
 
