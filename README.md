@@ -15,7 +15,7 @@ Refer jito instruction.
 
 Run this command to download explorer relayer.
 
-      git clone https://github.com/Explorer/relayer.git
+      git clone https://github.com/Explorrer/echo-relayer.git
 
       cd relayer
 
